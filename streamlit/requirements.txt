@@ -1,0 +1,12 @@
+wheel
+keras
+yfinance
+plotly
+pandas
+pandas-ta
+joblib
+scipy
+matplotlib
+ta
+tensorflow==2.15
+scikit-learn
